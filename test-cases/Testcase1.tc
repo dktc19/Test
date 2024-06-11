@@ -1,0 +1,28 @@
+{
+  "varNode": {
+    "descendants": {
+      "INPUT": {
+        "descendants": {}
+      },
+      "REPO": {
+        "descendants": {}
+      },
+      "OUTPUT": {
+        "descendants": {}
+      },
+      "KEYWORD": {
+        "descendants": {}
+      }
+    },
+    "value": "038c8826-e6dc-4927-a847-1b92f0d03c51"
+  },
+  "platform": {
+    "type": "Web",
+    "displayName": "Web"
+  },
+  "setUpList": [],
+  "stepList": [],
+  "tearDownList": [],
+  "managerId": "",
+  "uuid": "038c8826-e6dc-4927-a847-1b92f0d03c51"
+}
